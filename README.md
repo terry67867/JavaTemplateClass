@@ -1,0 +1,1 @@
+# JavaTemplateClass
